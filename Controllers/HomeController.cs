@@ -136,6 +136,8 @@ namespace AdMonitorSolr.Controllers
         private Ads[] initSearch()
         {
             return initSearch("*:*");
+
+            
         }
 
 
