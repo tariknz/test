@@ -1,0 +1,9 @@
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\AdMonitorSolr.dll
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\AdMonitorSolr.pdb
+F:\Projects\AdMonitorSolr\AdMonitorSolr\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\AdMonitorSolr\AdMonitorSolr\obj\Debug\AdMonitorSolr.dll
+F:\Projects\AdMonitorSolr\AdMonitorSolr\obj\Debug\AdMonitorSolr.pdb
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\SolrNet.dll
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\SolrNet.pdb
+F:\Projects\AdMonitorSolr\AdMonitorSolr\bin\SolrNet.xml
